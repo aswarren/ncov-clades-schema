@@ -1,0 +1,61 @@
+
+                {
+                  "color": "#4432BD",
+                  "name": "~BA.2",
+                  "children": [
+                    {
+                        "color": "#56A0AE",
+                        "name": "BA.2.12.1"
+                      },
+                    {
+                      "color": "#94BD62",
+                      "name": "BA.4",
+                      "children": [
+                        {
+                            "color":"#E29E39",
+                            "name":"BA.4.6"
+                        }
+                    ]
+                    },
+
+                    {
+                      "color": "#94BD62",
+                      "name": "BA.5",
+                      "children": [
+                          {
+                              "color":"#E68935",
+                              "name":"BQ.1",
+                              "children": [
+                                {
+                                    "color":"#DC2F24",
+                                    "name":"BQ.1.1"
+                                }
+                            ]
+                          },
+                          {
+                              "color":"#E29E39",
+                              "name":"BF.7"
+                          }
+                      ]
+                    },
+                    {
+                        "color":"#94BD62",
+                        "name":"BJ.1",
+                        "children": [
+                            {
+                                "color":"#DC2F24",
+                                "name":"XBB"
+                            }]
+                    },
+                    {
+                      "color": "#94BD62",
+                      "name": "BA.2.75",
+                      "children": [
+                        {
+                            "color":"#E68935",
+                            "name":"BA.2.75.2"
+                        }
+                      ]
+                    }
+                  ]
+                }
